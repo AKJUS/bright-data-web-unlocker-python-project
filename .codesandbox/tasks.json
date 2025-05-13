@@ -16,10 +16,7 @@
       "restartOn": {
         "files": [
           "index.py"
-        ],
-        "branch": false,
-        "clone": false,
-        "resume": false
+        ]
       }
     },
     "install-dependencies": {
@@ -28,10 +25,7 @@
       "restartOn": {
         "files": [
           "requirements.txt"
-        ],
-        "branch": false,
-        "clone": false,
-        "resume": false
+        ]
       }
     }
   }
