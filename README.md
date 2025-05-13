@@ -1,6 +1,6 @@
 # Bright Data Web Unlocker Python project
 
-[Edit in CodeSandbox editor](https://codesandbox.io/s/github/luminati-io/bright-data-web-unlocker-python-project?file=index.py)
+<a href="https://githubbox.com/luminati-io/bright-data-web-unlocker-python-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
 
 ## Bright Data Web Unlocker API Example
 
