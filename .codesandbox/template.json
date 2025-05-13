@@ -1,7 +1,7 @@
 {
     "title": "Bright Data Web Unlocker API Python",
     "description": "The starter template of Bright Data Web Unlocker API Python for CodeSandbox",
-    "iconUrl": "https://raw.githubusercontent.com/luminati-io/bright-data-web-unlocker-python-project/edit/main/.codesandbox/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/luminati-io/bright-data-web-unlocker-python-project/main/.codesandbox/icon.png",
     "tags": ["python", "brightdata", "unlocker", "playground"]
   }
   
