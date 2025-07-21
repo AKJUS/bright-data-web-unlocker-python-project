@@ -1,10 +1,12 @@
 # Bright Data Web Unlocker Python project
 
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/)
+
 <a href="https://githubbox.com/luminati-io/bright-data-web-unlocker-python-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
 
 ## Bright Data Web Unlocker API Example
 
-This project demonstrates how to use Bright Data's Web Unlocker API to access websites through Bright Data Web Unlocker API.
+This project demonstrates how to use [Bright Data's Web Unlocker API](https://brightdata.com/products/web-unlocker) to access websites through [Bright Data Web Unlocker API](https://brightdata.com/products/web-unlocker).
 
 ## Overview
 
